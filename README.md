@@ -3,7 +3,7 @@ A nonlinear Hammerstein system parameter separation technique was used for nonli
 
 The published paper:  
 袁红林, 刘成云, 包志华. 一种正交频分复用系统的非线性补偿技术[J]. 电视技术, 2016, 40(1): 87-90,94.     
-YUAN H.L, LIU C. Y, BAO Z. H. Nonlinearity compensation technology for OFDM systems[J]. Video engineering, 2016, 40(1): 87-90. (in Chinese)     
+YUAN H.L, LIU C. Y, BAO Z. H. Nonlinearity compensation technology for OFDM systems[J]. Video engineering, 2016, 40(1): 87-90,94.(in Chinese)     
 
 The abstract of the relevant published paper:   
 Aiming at the problem of communication performance of OFDM systems when the Power Amplifier (PA) nonlinearity is strong, and based on a kind of combined estimation technology for nonlinearity of transmitters and wireless channels, a nonlinear channel estimation and equalization technique of OFDM system is proposed based on training sequences. Firstly, the transmitter nonlinearity and unit impulse response of wireless channel are estimated with least squares (LS) algorithm, then the compensation of wireless channel and transmitter nonlinearity are done successively. Simulation results show that the proposed method may approach the result of OFDM wireless communication systems without nonlinearity under the perfect compensation of wireless channe1.     
