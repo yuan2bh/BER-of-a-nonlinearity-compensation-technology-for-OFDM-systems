@@ -1,4 +1,4 @@
-# BER-of-a-nonlinearity-compensation-technology-for-OFDM-systems
+# BER-of-a-nonlinearity-compensation-technology-for-OFDM-systems 
 A nonlinear Hammerstein system parameter separation technique was used for nonlinear and linear coefficient separation, which is not perfect.   
 
 The published paper:  
@@ -11,6 +11,6 @@ Key words: OFDM; nonlinear channel; channel estimation; channel compensation; LS
 
 The entry is sepaComp_main.m which can run successfully in MATLAB R2013b.   
 One of the BER comparisons between our proposed method and the theoretical value of Rayleigh fading channel is as follows:    
-![image](https://github.com/user-attachments/assets/3bb59765-7653-47d3-9eda-084145ebe9c9) 
+![image](https://github.com/user-attachments/assets/3bb59765-7653-47d3-9eda-084145ebe9c9)   
 
-The BER of our proposed method is worse than that of the theoretical Rayleigh fading channel for a number of reasons, including the fact that the theoretical values do not take into account nonlinear effects, as well as a number of other research-worthy issues.  
+There are many reasons why the BER of our proposed method is worse than the theoretical Rayleigh fading channel, the possible reasons may be that the theoretical values do not take into account the nonlinear effects, and some other problems.   
