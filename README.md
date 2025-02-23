@@ -2,7 +2,7 @@
 A nonlinear Hammerstein system parameter separation technique was used for nonlinear and linear coefficient separation, which is not perfect.   
 
 The published paper:  
-袁红林, 刘成云, 包志华. 一种正交频分复用系统的非线性补偿技术[J]. 电视技术, 2016, 40(1): 87-90, 94.     
+袁红林, 刘成云, 包志华. 一种正交频分复用系统的非线性补偿技术[J]. 电视技术, 2016, 40(1): 87-90,94.     
 YUAN H.L, LIU C. Y, BAO Z. H. Nonlinearity compensation technology for OFDM systems[J]. Video engineering, 2016, 40(1): 87-90. (in Chinese)     
 
 The abstract of the relevant published paper:   
